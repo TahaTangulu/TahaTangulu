@@ -40,6 +40,7 @@
 -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me...***
 
+✔ Since I can no longer access my old github account, I had to create a new account with the same username. <br>
 ✔ Callme: ***He/His*** or ***TeamWorker*** <br>
 ✔ I’m currently Developing a Website for my university project<br>
 ✔ I’m currently learning about **Game modding*<br>
