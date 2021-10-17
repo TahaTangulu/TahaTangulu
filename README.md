@@ -9,7 +9,7 @@
  <p align="center">
   <img src="https://img.shields.io/badge/Age-25-blue" />
   <img src="https://img.shields.io/badge/Focus-Test%20Engineering-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Turkey-yellow" />
+  <img src="https://img.shields.io/badge/Lives-Turkey-brightgreen" />
   <img src="https://img.shields.io/badge/Languages-Turkish%20%26%20English-brightgreen" />
 </p>
 <hr>
@@ -18,10 +18,10 @@
 <p align="center">
 <a href="https://www.hackerrank.com/tangulutaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tahatangulu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>  
-<a href="https://www.kaggle.com/tahatangl" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
-<a href="https://www.instagram.com/tangulutaha/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
-<a href="https://www.facebook.com/tahatangulu/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
- <a href = "mailto: tangulutaha@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/tahatangl" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/189_Kaggle_logo_logos-512.png" alt="kaggle_ovindu" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tangulutaha/" target="blank"><img align="center" src="https://proofmart.com/wp-content/uploads/2021/06/instagram-10-low.png" alt="insta_ovindu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tahatangulu/" target="blank"><img align="center" src="https://i.pinimg.com/originals/b7/63/69/b763699fd1fa3bfb374442593ae642e1.png" alt="fb_ovindu" height="30" width="40" /></a>
+ <a href = "mailto: tangulutaha@gmail.com"><img align="center" src="https://mecanicadorrego.net/wp-content/uploads/2020/04/gmail-icon-png-black-7.png" height="30" width="40" /></a>
 </p>
 </p>
 
