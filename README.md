@@ -19,9 +19,9 @@
 <a href="https://www.hackerrank.com/tangulutaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tahatangulu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>  
 <a href="https://www.kaggle.com/tahatangl" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/189_Kaggle_logo_logos-512.png" alt="kaggle_ovindu" height="30" width="40" /></a>
-<a href="https://www.instagram.com/tangulutaha/" target="blank"><img align="center" src="https://proofmart.com/wp-content/uploads/2021/06/instagram-10-low.png" alt="insta_ovindu" height="30" width="40" /></a>
+<!--<a href="https://www.instagram.com/tangulutaha/" target="blank"><img align="center" src="https://proofmart.com/wp-content/uploads/2021/06/instagram-10-low.png" alt="insta_ovindu" height="30" width="40" /></a>
 <a href="https://www.facebook.com/tahatangulu/" target="blank"><img align="center" src="https://i.pinimg.com/originals/b7/63/69/b763699fd1fa3bfb374442593ae642e1.png" alt="fb_ovindu" height="30" width="40" /></a>
- <a href = "mailto: tangulutaha@gmail.com"><img align="center" src="https://mecanicadorrego.net/wp-content/uploads/2020/04/gmail-icon-png-black-7.png" height="30" width="40" /></a>
+<a href = "mailto: tangulutaha@gmail.com"><img align="center" src="https://mecanicadorrego.net/wp-content/uploads/2020/04/gmail-icon-png-black-7.png" height="30" width="40" /></a> -->
 </p>
 </p>
 
@@ -68,8 +68,8 @@
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LaptopRecai&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=LaptopRecai&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LaptopRecai&show_icons=true&locale=en&layout=compact&theme=chartreuse-tokyonight" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=LaptopRecai&show_icons=true&locale=en&theme=chartreuse-tokyonight" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
 <hr>
