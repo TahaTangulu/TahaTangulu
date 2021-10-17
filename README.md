@@ -60,8 +60,8 @@
 <img  height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
 <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
 <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"> 
     <p align="center">
+<img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"> 
 <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
 <img  height="50" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"> 
 <img  height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg">
