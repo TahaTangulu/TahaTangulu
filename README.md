@@ -62,6 +62,7 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
   <hr>
   <p align="center">
