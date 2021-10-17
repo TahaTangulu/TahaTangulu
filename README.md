@@ -56,9 +56,11 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
   <hr>
