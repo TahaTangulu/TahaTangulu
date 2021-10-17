@@ -51,19 +51,23 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
   
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
+<img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+ 
+<img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
+<img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> 
+<img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
+<img  height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
+<img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
+<img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> 
+<img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"> 
+    <p align="center">
+<img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+<img  height="50" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"> 
+<img  height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg">
+<img  height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> 
+<img  height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> 
+
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
