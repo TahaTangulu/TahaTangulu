@@ -7,14 +7,14 @@
 <img src="https://komarev.com/ghpvc/?username=LaptopRecai&color=orange" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-25-blue" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Age-25-blue" />
+  <img src="https://img.shields.io/badge/Focus-Test%20Engineering-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Turkey-yellow" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-Turkish%20%26%20English-brightgreen" />
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Taha Tangülü </h1>
-<h3 align="center">Software Test Engineer | Data Scientist </h3>
+<h3 align="center">Software Test Engineer | Game Developer  </h3>
 <p align="center">
 <a href="https://www.hackerrank.com/tangulutaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tahatangulu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>  
