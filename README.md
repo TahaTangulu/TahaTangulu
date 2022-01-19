@@ -1,6 +1,7 @@
 
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+ 
 </p>
 <br>
 
@@ -12,6 +13,9 @@
   <img src="https://img.shields.io/badge/Focus-Test%20Engineering-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Turkey-brightgreen" />
   <img src="https://img.shields.io/badge/Languages-Turkish%20%26%20English-brightgreen" />
+  <p align="center"> 
+  <img src="https://dcbadge.vercel.app/api/shield/216917706392207361" height="25" />
+   </p>
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Taha Tangülü </h1>
