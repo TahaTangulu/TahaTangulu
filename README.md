@@ -47,8 +47,8 @@
 
 ✔ Since I can no longer access my old Github account, I had to create a new one with the same username. <br>
 ✔ Callme: ***He/His*** or ***TeamWorker*** <br>
-✔ I’m currently Developing a Website for my university project<br>
-✔ I’m currently learning about **Game modding*<br>
+✔ I’m currently Developing a projects for my university lessons<br>
+✔ I’m currently learning about *Game modding*<br>
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain*<br><br><br><br>
