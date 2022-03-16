@@ -65,16 +65,28 @@
 <img  height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
 <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
 <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
-    <p align="center">
+ <p align="center">
 <img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"> 
 <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
 <img  height="50" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"> 
 <img  height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg">
 <img  height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> 
 <img  height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> 
+      
+<hr>
 
-  <hr>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Certificates...***
+<br>
+</br>
+<p align="center">
+<img height="300" src="https://github.com/LaptopRecai/LaptopRecai/blob/main/python.png?raw=true">
+<img height="300" src="https://github.com/LaptopRecai/LaptopRecai/blob/main/sql.png?raw=true">
   <p align="center">
+<a href="https://www.hackerrank.com/certificates/c97c740ff8f0">Python (Basic) Certificate </a>
+<a href="https://www.hackerrank.com/certificates/9b2e2894253a">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SQL (Basic) Certificate&nbsp;</a>
+     
+  <hr>
+ <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <p><img align="left" height="175" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=LaptopRecai&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" /></p>
