@@ -77,14 +77,10 @@
 <p align="center">
 <img src="https://c.tenor.com/vdYY5LRBJpQAAAAi/approve.gif" height="25px" width="25px">&nbsp;<b><i>Certificates...</i></b>
  </p>
-<br>
-</br>
+
 <p align="center">
 <img height="300" src="https://github.com/LaptopRecai/LaptopRecai/blob/main/python.png?raw=true">
 <img height="300" src="https://github.com/LaptopRecai/LaptopRecai/blob/main/sql.png?raw=true">
- <p align="center">
-<a href="https://www.hackerrank.com/certificates/c97c740ff8f0">Python (Basic) Certificate </a>
-<a href="https://www.hackerrank.com/certificates/9b2e2894253a">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SQL (Basic) Certificate&nbsp;</a>
      
   <hr>
  <p align="center">
