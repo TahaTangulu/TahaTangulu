@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=LaptopRecai&color=orange" alt="watching_count" />
  </p>
  <p align="center">
-  <img src="https://img.shields.io/badge/Age-25-blue" />
+  <img src="https://img.shields.io/badge/Age-26-blue" />
   <img src="https://img.shields.io/badge/Focus-Test%20Engineering-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Turkey-brightgreen" />
   <img src="https://img.shields.io/badge/Languages-Turkish%20%26%20English-brightgreen" />
