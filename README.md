@@ -56,23 +56,34 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="center">
-  
 <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+<img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg">
-<img height="50" src="https://gauge.org/assets/images/gauge-logo_white.svg">
+  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
+<img  height="30"  src="https://gauge.org/assets/images/gauge-logo_white.svg">
+  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg">
+  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-<img  height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
+  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
+<img  height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
+  <a>
 <p align="center">
-<img  height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> 
+<img  height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
+  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
+  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
+  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img  height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg">
+  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img  height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> 
-
       
 <hr>
 <p align="center">
