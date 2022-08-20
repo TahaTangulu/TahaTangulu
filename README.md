@@ -58,7 +58,8 @@
 <p align="center">
   
 <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
+<img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+<img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
 <img  height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
