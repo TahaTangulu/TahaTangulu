@@ -60,6 +60,7 @@
 <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
 <img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg">
+<img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/jenkins/jenkins-ar21.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
 <img  height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
 <img  height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> 
