@@ -90,8 +90,8 @@
  </p>
 
 <p align="center">
-<img height="300" src="https://github.com/LaptopRecai/LaptopRecai/blob/main/python.png?raw=true">
-<img height="300" src="https://github.com/LaptopRecai/LaptopRecai/blob/main/sql.png?raw=true">
+<img height="300" src="https://github.com/TahaTangulu/TahaTangulu/blob/main/python.png?raw=true">
+<img height="300" src="https://github.com/TahaTangulu/TahaTangulu/blob/main/sql.png?raw=true">
      
   <hr>
  <p align="center">
@@ -106,10 +106,4 @@
 
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=LaptopRecai&theme=juicyfresh&no-bg=true"  </p>
-
-
------
-
-
-Last Edited on: 17/10/2021
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=TahaTangulu&theme=juicyfresh&no-bg=true"  </p>
