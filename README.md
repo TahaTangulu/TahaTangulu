@@ -108,6 +108,6 @@
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=TahaTangulu&theme=juicyfresh&no-bg=true"  </p>
   
-<p align="center">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tahatangulu&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-</p>
+<p align="center"> 
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tahatangulu&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+ </p>
