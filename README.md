@@ -91,6 +91,7 @@
 
 <p align="center">
 <img height="300" src="https://github.com/TahaTangulu/TahaTangulu/blob/main/AWS%20Certified%20Cloud%20Practitioner%20certificate%20(1)-1.png">
+<br><br>
 <img height="300" src="https://github.com/TahaTangulu/TahaTangulu/blob/main/python.png?raw=true">
 <img height="300" src="https://github.com/TahaTangulu/TahaTangulu/blob/main/sql.png?raw=true">
 
