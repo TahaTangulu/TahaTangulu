@@ -19,7 +19,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Taha Tangülü </h1>
-<h3 align="center">Software Test Engineer</h3>
+<h3 align="center">Software Engineer | QA Automation Test Engineer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/tahatangulu/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="tangulutaha" height="40" width="40" /></a> &nbsp
 <a href="https://www.hackerrank.com/tangulutaha" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="@tangulutaha" height="40" width="40" /></a>
