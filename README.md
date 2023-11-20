@@ -59,7 +59,7 @@
 <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
   <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg">
+<img height="50" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png">
   <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img  height="30"  src="https://gauge.org/assets/images/gauge-logo_white.svg">
   <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
