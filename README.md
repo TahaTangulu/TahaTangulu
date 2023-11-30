@@ -58,31 +58,52 @@
 <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
 <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
+<img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img height="50" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png">
-  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img  height="30"  src="https://gauge.org/assets/images/gauge-logo_white.svg">
-  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
+<img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
+<img height="30" src="https://gauge.org/assets/images/gauge-logo_white.svg">
+<img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg">
-  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
+<img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img  height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
-  <a>
+<img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
+<img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
+<a></a> <!-- Bu satırı ekledik -->
 <p align="center">
-<img  height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
-  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
-  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
+<img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+<img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
+<img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+<img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
-  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
+<img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
-  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
+<img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
-  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img  height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg">
-  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img  height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> 
+<img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
+<img height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg">
+<img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
+<img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+</p>
+<!-- Yeni logoları ekleyin -->
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+  <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
+</p>
+ 
       
 <hr>
 <p align="center">
