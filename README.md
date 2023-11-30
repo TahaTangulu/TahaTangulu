@@ -48,7 +48,7 @@
 ✔ Since I can no longer access my old Github account, I had to create a new one with the same username. <br>
 ✔ Callme: ***He/His*** or ***TeamWorker*** <br>
 ✔ I’m currently Developing some projects<br>
-✔ I’m currently learning about *Security Testing*<br>
+✔ I’m currently learning about *DevOps*<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain*<br><br><br><br>
  
