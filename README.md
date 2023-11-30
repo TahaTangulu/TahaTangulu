@@ -97,15 +97,7 @@
   <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg">
-  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img height="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
-  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg">
-  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
   <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img height="50" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg">
 </p>
