@@ -91,21 +91,13 @@
   <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
   <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img height="50" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
-  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg">
   <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
   <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img height="50" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg">
-  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
   <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
 <img height="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
   <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
