@@ -10,7 +10,7 @@
  </p>
  <p align="center">
   <img src="https://img.shields.io/badge/Age-28-blue" />
-  <img src="https://img.shields.io/badge/Focus-Test%20Ops%20DevOps%20&%20Test%20Automation%20Specialist-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-%20DevOps%20&%20Test%20Automation%20Specialist-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Turkey-brightgreen" />
   <img src="https://img.shields.io/badge/Languages-Turkish%20%26%20English-brightgreen" />
   <p align="center"> 
