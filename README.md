@@ -41,8 +41,6 @@ daily_tools:
 certifications: [AWS Certified Cloud Practitioner]
 ```
 
-I improve the **build → test → release → run** lifecycle — making CI/CD faster, Kubernetes deployments more reliable, and test automation sustainable. End-to-end ownership across quality gates, observability, and performance testing.
-
 <br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28" /> &nbsp;Tech Stack
@@ -50,14 +48,14 @@ I improve the **build → test → release → run** lifecycle — making CI/CD 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,gitlab,githubactions,aws,azure,linux&theme=dark" />
-<br><br>
+<br>
 <img src="https://skillicons.dev/icons?i=java,py,js,bash,selenium,postman,prometheus,grafana&theme=dark" />
-<br><br>
+<br>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github&theme=dark" />
 
 <br>
 
-<sub>Also working with: &nbsp; Helm · SonarQube · Fortify SAST · Appium · JMeter · Gauge · BrowserStack</sub>
+`Helm` `SonarQube` `Fortify SAST` `Appium` `JMeter` `Gauge` `BrowserStack`
 
 </div>
 
@@ -66,10 +64,11 @@ I improve the **build → test → release → run** lifecycle — making CI/CD 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="28" /> &nbsp;Certifications
 
 <div align="center">
+<br>
 
-<a href="#"><img height="220" src="https://raw.githubusercontent.com/TahaTangulu/TahaTangulu/main/AWS%20Certified%20Cloud%20Practitioner%20certificate%20(1)-1.png" alt="AWS CCP" /></a>&nbsp;&nbsp;
-<a href="#"><img height="220" src="https://raw.githubusercontent.com/TahaTangulu/TahaTangulu/main/python.png" alt="Python" /></a>&nbsp;&nbsp;
-<a href="#"><img height="220" src="https://raw.githubusercontent.com/TahaTangulu/TahaTangulu/main/sql.png" alt="SQL" /></a>
+<a href="#"><img height="200" src="https://raw.githubusercontent.com/TahaTangulu/TahaTangulu/main/AWS%20Certified%20Cloud%20Practitioner%20certificate%20(1)-1.png" alt="AWS CCP" /></a>&nbsp;&nbsp;&nbsp;
+<a href="#"><img height="200" src="https://raw.githubusercontent.com/TahaTangulu/TahaTangulu/main/python.png" alt="Python" /></a>&nbsp;&nbsp;&nbsp;
+<a href="#"><img height="200" src="https://raw.githubusercontent.com/TahaTangulu/TahaTangulu/main/sql.png" alt="SQL" /></a>
 
 </div>
 
@@ -79,32 +78,28 @@ I improve the **build → test → release → run** lifecycle — making CI/CD 
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=TahaTangulu&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TahaTangulu&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" alt="Stats" />
-</picture>&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TahaTangulu&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TahaTangulu&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" alt="Languages" />
-</picture>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TahaTangulu&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" alt="Stats" />&nbsp;
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TahaTangulu&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" alt="Languages" />
 
-<br><br>
+<br>
 
 <img src="https://streak-stats.demolab.com/?user=TahaTangulu&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=555555" alt="Streak" />
 
-<br><br>
+<br>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=TahaTangulu&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" alt="Activity Graph" />
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 <img src="https://github-trophies.vercel.app/?username=TahaTangulu&theme=darkhub&no-frame=true&column=7&margin-w=10" alt="Trophies" />
 
 </div>
 
 <br>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28" /> &nbsp;Contribution Snake
 
 <div align="center">
 
