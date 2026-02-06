@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:1a6bff&height=230&section=header&text=Taha%20Tang%C3%BCl%C3%BC&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=DevOps%20Engineer%20in%20Test%20(TestOps)%20%40%20Virgosol&descAlignY=54&descSize=20&descColor=58a6ff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:1a6bff&height=230&section=header&text=Taha%20Tang%C3%BCl%C3%BC&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=DevOps%20Engineer%20in%20Test%20(TestOps)&descAlignY=54&descSize=20&descColor=58a6ff" />
 
 <div align="center">
 
@@ -21,7 +21,6 @@
 ```yaml
 name: Taha Tangülü
 located_in: Turkey
-company: Virgosol
 role: DevOps Engineer in Test (TestOps)
 
 focus:
