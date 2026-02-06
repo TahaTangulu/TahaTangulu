@@ -1,135 +1,183 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:1a6bff&height=220&section=header&text=Taha%20Tang%C3%BCl%C3%BC&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20DevOps%20Engineer%20in%20Test%20(TestOps)&descAlignY=55&descSize=18&descColor=94a3b8" />
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="400" />
- 
-</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=1A6BFF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=CI%2FCD+%7C+Kubernetes+%7C+Test+Automation+%7C+Observability;Building+Reliable+Pipelines+%26+Infrastructure+%40+Virgosol;Faster+Releases+Without+Sacrificing+Quality)](https://git.io/typing-svg)
+
 <br>
 
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=LaptopRecai&color=orange" alt="watching_count" />
- </p>
- <p align="center">
-  <img src="https://img.shields.io/badge/Age-29-blue" />
-  <img src="https://img.shields.io/badge/Focus-%20DevOps%20&%20Test%20Automation%20Specialist-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Turkey-brightgreen" />
-  <img src="https://img.shields.io/badge/Languages-Turkish%20%26%20English-brightgreen" />
-  <p align="center"> 
-  <img src="https://dcbadge.vercel.app/api/shield/216917706392207361" height="25" />
-   </p>
-</p>
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Taha Tangülü </h1>
-<h3 align="center">Software Engineer | QA Automation Test Engineer</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/tahatangulu/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="tangulutaha" height="40" width="40" /></a> &nbsp
-<a href="https://www.hackerrank.com/tangulutaha" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="@tangulutaha" height="40" width="40" /></a>
-<a href="https://www.kaggle.com/tahatangl" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="tangulutaha" height="40" width="40" /></a>
-<!--<a href="https://www.instagram.com/tangulutaha/" target="blank"><img align="center" src="https://proofmart.com/wp-content/uploads/2021/06/instagram-10-low.png" alt="insta_ovindu" height="30" width="40" /></a>
-<a href="https://www.facebook.com/tahatangulu/" target="blank"><img align="center" src="https://i.pinimg.com/originals/b7/63/69/b763699fd1fa3bfb374442593ae642e1.png" alt="fb_ovindu" height="30" width="40" /></a>
-<a href = "mailto: tangulutaha@gmail.com"><img align="center" src="https://mecanicadorrego.net/wp-content/uploads/2020/04/gmail-icon-png-black-7.png" height="30" width="40" /></a> -->
-</p>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahatangulu/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/tangulutaha)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tahatangl)
+[![AWS](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](#certifications)
 
+<br>
 
-<!--
-<p align="center">
-  <em>Turkey (" Wisdom is all wealth ")</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-</p>
-<br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
--->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me...***
+![Profile Views](https://komarev.com/ghpvc/?username=TahaTangulu&color=1a6bff&style=for-the-badge&label=PROFILE+VIEWS)
 
-✔ Since I can no longer access my old Github account, I had to create a new one with the same username. <br>
-✔ Callme: ***He/His*** or ***TeamWorker*** <br>
-✔ I’m currently Developing some projects<br>
-✔ I’m currently learning about *DevOps*<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain*<br><br><br><br>
- 
+</div>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-<p align="center">
-<img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-<img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-<img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png">
-<img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="30" src="https://gauge.org/assets/images/gauge-logo_white.svg">
-<img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg">
-<img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-<img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
-<a></a> <!-- Bu satırı ekledik -->
-<p align="center">
-<img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
-<img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-<img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
-<img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
-<img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
-<img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg">
-<img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
-</p>
-<p align="center">
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
-  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
-  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
-  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
-  <img height="50" width="5px" src="https://www.blondiebliss.co.ke/wp-content/uploads/2020/02/vertical-black-line-png-18.png">
-<img height="50" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg">
-</p>
- 
-      
-<hr>
-<p align="center">
-<img src="https://c.tenor.com/vdYY5LRBJpQAAAAi/approve.gif" height="25px" width="25px">&nbsp;<b><i>Certificates...</i></b>
- </p>
+---
 
-<p align="center">
-<img height="300" src="https://github.com/TahaTangulu/TahaTangulu/blob/main/AWS%20Certified%20Cloud%20Practitioner%20certificate%20(1)-1.png">
-<br><br>
-<img height="300" src="https://github.com/TahaTangulu/TahaTangulu/blob/main/python.png?raw=true">
-<img height="300" src="https://github.com/TahaTangulu/TahaTangulu/blob/main/sql.png?raw=true">
+## About Me
 
-     
-  <hr>
- <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" height="175" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=TahaTangulu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=TahaTangulu&show_icons=true&locale=en&theme=tokyonight" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-</br>
+DevOps & Test Automation Engineer at **[Virgosol](https://www.virgosol.com)**, based in Turkey.
 
-<hr>
+I focus on improving the **build-test-release-run lifecycle** by making CI/CD processes faster and more reliable, and by strengthening deployment and operations practices in **Kubernetes** and container-based environments.
 
+I work end-to-end across **quality & security gates**, **observability** (metrics/monitoring), and **API/performance testing**. With a solid test automation background, I build sustainable automation approaches that help increase delivery speed without sacrificing quality.
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=TahaTangulu&theme=juicyfresh&no-bg=true"  </p>
-  
-<hr>
+```yaml
+name: Taha Tangülü
+located_in: Turkey
+company: Virgosol
 
-<p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=tahatangulu&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=false"</p>
+current_role:
+  title: "DevOps Engineer in Test (TestOps)"
+  focus:
+    - CI/CD Pipeline Design & Standardization
+    - Kubernetes Deployments & Operations
+    - Code Quality & Security (SAST)
+    - Observability (Prometheus, Grafana)
+    - API & Performance Testing
+    - AI/ML-driven Automation
+
+certifications:
+  - AWS Certified Cloud Practitioner
+
+languages: ["Turkish", "English"]
+```
+
+---
+
+## What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### DevOps & Infrastructure
+- Design and maintain **CI/CD pipelines** (Jenkins, GitLab CI, Azure DevOps)
+- Manage **Kubernetes** deployments, Helm charts, RBAC, NetworkPolicy, scaling
+- Establish **static code analysis** (SonarQube, Fortify SAST)
+- Build **observability** dashboards with Prometheus & Grafana
+- Manage cloud infrastructure on **AWS** and **Azure**
+- Automate microservice versioning and release processes
+
+</td>
+<td width="50%" valign="top">
+
+### Test Automation & Quality
+- Web & Mobile test automation (**Selenium**, **Appium**, **Gauge**)
+- API testing with **Postman**, performance testing with **JMeter**
+- Cross-browser testing with **BrowserStack**
+- Process standardization across QA workflows
+- Database operations & monitoring (**PostgreSQL**, **MongoDB**)
+- Operational reporting and automation scripting
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,gitlab,aws,azure,linux,bash&perline=8" alt="DevOps & Cloud" />
+
+<br>
+
+### Observability & Quality
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&perline=4" alt="Observability" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+<img src="https://img.shields.io/badge/Fortify_SAST-00838F?style=for-the-badge&logoColor=white" alt="Fortify" />
+
+<br>
+
+### Test Automation
+<img src="https://skillicons.dev/icons?i=selenium,postman&perline=4" alt="Test Automation" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" />
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter" />
+<img src="https://img.shields.io/badge/Gauge-F5A623?style=for-the-badge&logo=gauge&logoColor=white" alt="Gauge" />
+<img src="https://img.shields.io/badge/BrowserStack-FF6E00?style=for-the-badge&logo=browserstack&logoColor=white" alt="BrowserStack" />
+
+<br>
+
+### Languages & Databases
+<img src="https://skillicons.dev/icons?i=java,py,js,bash,postgres,mongodb,mysql&perline=7" alt="Languages & Databases" />
+
+</div>
+
+---
+
+## Certifications
+
+<div align="center">
+
+<img height="260" src="https://raw.githubusercontent.com/TahaTangulu/TahaTangulu/main/AWS%20Certified%20Cloud%20Practitioner%20certificate%20(1)-1.png" alt="AWS Certified Cloud Practitioner" />
+&nbsp;&nbsp;&nbsp;
+<img height="260" src="https://raw.githubusercontent.com/TahaTangulu/TahaTangulu/main/python.png" alt="Python Certificate" />
+&nbsp;&nbsp;&nbsp;
+<img height="260" src="https://raw.githubusercontent.com/TahaTangulu/TahaTangulu/main/sql.png" alt="SQL Certificate" />
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=TahaTangulu&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=1a6bff&title_color=1a6bff" alt="GitHub Stats" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaTangulu&layout=compact&theme=github_dark&hide_border=true&title_color=1a6bff" alt="Top Languages" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=TahaTangulu&theme=github-dark-blue&hide_border=true&ring=1a6bff&fire=1a6bff&currStreakLabel=1a6bff" alt="GitHub Streak" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TahaTangulu&theme=github-dark&hide_border=true&area=true&color=1a6bff&line=1a6bff&point=ffffff" alt="Activity Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TahaTangulu&theme=darkhub&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TahaTangulu/TahaTangulu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TahaTangulu/TahaTangulu/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/TahaTangulu/TahaTangulu/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Automating today's processes to build tomorrow's reliability."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:1a6bff&height=120&section=footer" />
+
+</div>
