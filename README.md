@@ -134,9 +134,9 @@ languages: ["Turkish", "English"]
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TahaTangulu&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=1a6bff&title_color=1a6bff" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TahaTangulu&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=000000&icon_color=1a6bff&title_color=1a6bff&text_color=ffffff" alt="GitHub Stats" />
 &nbsp;
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TahaTangulu&layout=compact&theme=github_dark&hide_border=true&title_color=1a6bff" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TahaTangulu&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=1a6bff&text_color=ffffff" alt="Top Languages" />
 
 <br>
 
