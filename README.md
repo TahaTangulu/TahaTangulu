@@ -55,7 +55,7 @@ certifications: [AWS Certified Cloud Practitioner]
 
 <br>
 
-`Helm` `SonarQube` `Fortify SAST` `Appium` `JMeter` `Gauge` `BrowserStack`
+`Helm` `SonarQube` `Fortify` `Appium` `JMeter` `Gauge` `BrowserStack`
 
 </div>
 
@@ -87,21 +87,9 @@ certifications: [AWS Certified Cloud Practitioner]
 
 <br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=TahaTangulu&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" alt="Activity Graph" />
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://github-trophies.vercel.app/?username=TahaTangulu&theme=darkhub&no-frame=true&column=7&margin-w=10" alt="Trophies" />
 
-</div>
-
 <br>
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TahaTangulu/TahaTangulu/output/github-snake-dark.svg" />
