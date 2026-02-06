@@ -34,7 +34,7 @@ focus:
 
 daily_tools:
   devops: [Kubernetes, Docker, Jenkins, GitLab CI, Azure DevOps, AWS, Linux]
-  testing: [Selenium, Appium, Gauge, Postman, JMeter, BrowserStack]
+  testing: [Selenium, Appium, Gauge, Postman, JMeter]
   databases: [PostgreSQL, MongoDB, MySQL]
   languages: [Java, Python, JavaScript, Bash]
 
@@ -55,7 +55,7 @@ certifications: [AWS Certified Cloud Practitioner]
 
 <br>
 
-`Helm` `SonarQube` `Fortify` `Appium` `JMeter` `Gauge` `BrowserStack`
+`Helm` `SonarQube` `Fortify` `Appium` `JMeter` `Gauge`
 
 </div>
 
